@@ -23,6 +23,7 @@ Framer Motion: A React library for creating animations and transitions.
 Scroll Locomotive: A smooth scrolling library for creating advanced scroll effects.
 
 React Router: Used for declarative routing in the application.
+
 Styled Components: Enables the use of CSS-in-JS for styling React components.
 
 
